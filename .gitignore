@@ -1,0 +1,40 @@
+## Ignore build results
+bin/
+obj/
+
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Visual Studio Code
+.vscode/
+
+## Ignore Rider / JetBrains
+.idea/
+
+## Ignore OS files
+.DS_Store
+Thumbs.db
+
+## Ignore logs
+*.log
+
+## Ignore published output
+publish/
+wwwroot/publish/
+
+## Ignore environment-specific files
+appsettings.Development.json
+appsettings.Local.json
+
+## Ignore secrets
+secrets.json
+
+## Ignore node modules (if used)
+node_modules/
+
+## Ignore generated PDF files (optional)
+*.pdf
