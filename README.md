@@ -15,6 +15,12 @@ The project demonstrates how to build a modern, scalable, and interactive web ap
    - Exporting data to PDF
 - Handle data flow, validation, and error handling between client and server
 - Structure a real-world application following best practices
+# Tech Stack
+- Frontend: Blazor WebAssembly (.NET 8)
+- Backend: ASP.NET Core Web API (.NET 8)
+- Database: SQL Server (or any supported database)
+- ORM: Entity Framework Core
+- PDF Export: (e.g., iText / QuestPDF / similar library)
 
 # Features
 - Employee listing with search and filtering
